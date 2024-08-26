@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blacitac.github.io/sitemap.html.gz
+Sitemap: https://blacitac.github.io/app/sitemap.html.gz
+Sitemap: https://blacitac.github.io/assets/sitemap.html.gz
+Sitemap: https://blacitac.github.io/css/sitemap.html.gz
+Sitemap: https://blacitac.github.io/includes/sitemap.html.gz
+Sitemap: https://blacitac.github.io/item/sitemap.html.gz
+Sitemap: https://blacitac.github.io/src/sitemap.html.gz
